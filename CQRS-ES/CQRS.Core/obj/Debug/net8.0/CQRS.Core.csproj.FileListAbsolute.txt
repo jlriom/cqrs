@@ -1,0 +1,12 @@
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/bin/Debug/net8.0/CQRS.Core.deps.json
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/bin/Debug/net8.0/CQRS.Core.dll
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/bin/Debug/net8.0/CQRS.Core.pdb
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/CQRS.Core.csproj.AssemblyReference.cache
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/CQRS.Core.AssemblyInfoInputs.cache
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/CQRS.Core.AssemblyInfo.cs
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/CQRS.Core.csproj.CoreCompileInputs.cache
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/CQRS.Core.dll
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/refint/CQRS.Core.dll
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/CQRS.Core.pdb
+/home/jl/projects/cqrs/CQRS-ES/CQRS.Core/obj/Debug/net8.0/ref/CQRS.Core.dll

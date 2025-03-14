@@ -17,3 +17,4 @@
 /home/jl/projects/cqrs/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/Debug/net8.0/ref/Post.Cmd.Infrastructure.dll
 /home/jl/projects/cqrs/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/bin/Debug/net8.0/Post.Cmd.Domain.dll
 /home/jl/projects/cqrs/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/bin/Debug/net8.0/Post.Cmd.Domain.pdb
+/home/jl/projects/cqrs/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/Debug/net8.0/Post.Cmd.Infrastructure.sourcelink.json

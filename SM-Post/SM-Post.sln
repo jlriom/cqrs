@@ -23,13 +23,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Common", "Post.Common\Post.Common.csproj", "{A333DF9E-0E9E-4E54-9909-A582F3BDA268}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{F6F462E1-D058-33EE-9A35-BBD49B846676}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1731625F-EB8C-4274-8A0B-B02B198DE942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -64,6 +66,9 @@ Global
 		{A333DF9E-0E9E-4E54-9909-A582F3BDA268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A333DF9E-0E9E-4E54-9909-A582F3BDA268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A333DF9E-0E9E-4E54-9909-A582F3BDA268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4840C2EE-B809-4AB3-A441-A9F390C4663D} = {D2103912-04C4-4661-AC32-32A7C7CFD8C4}
